@@ -25,11 +25,11 @@
 
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianalihaider&show_icons=true&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MianAliHaider&show_icons=true&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mianalihaider&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MianAliHaider&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mianalihaider&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MianAliHaider&theme=default)
 
 
 
