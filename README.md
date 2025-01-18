@@ -24,10 +24,11 @@
 
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mianalihaider&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianalihaider&show_icons=true&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mianalihaider&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mianalihaider&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mianalihaider)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mianalihaider&theme=default)
+
 
 
