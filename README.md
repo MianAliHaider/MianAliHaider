@@ -32,7 +32,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MianAliHaider&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MianAliHaider&theme=default
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MianAliHaider&theme=default)
 
 
 
